@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/JorgeFPeres/birthday-reminder-React-/blob/main/Image.png?raw=true" alt="Sublime's custom image" width= "500px"/>
+  <img src="https://github.com/JorgeFPeres/Color-generate-React/blob/main/Color-generator.png?raw=true" alt="Sublime's custom image" width= "500px"/>
 </p>
 
 
