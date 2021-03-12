@@ -7,7 +7,7 @@
 
 ## About
 
-1-Input the color at the form (hex only), if is a invalid value the form will alert you with a red border.
+1-Input the color at the form (hex only), if is a invalid value the form will alert you with a red border.<br>
 2-Click at the color to copy the hex color to clipboard.
 
 
